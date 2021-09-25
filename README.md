@@ -4,9 +4,9 @@
 #### - Website 
 #### - application 
 #### - windows,mac,android and ios App Developer
-#### - I Am a BCA student At Bangalor
+#### - I am a BCA student at Bangalor
 #### - Still Learning
-#### - Goal : Become A SoftWare Engineer
+#### - Goal : Become A SoftWare Engineer at Google
 
 ## Contact Me <br>
 Whatsapp : <a href="https://wa.me/message/XEDQSY2IZ4C7D1">Chat With Me</a> <br>
