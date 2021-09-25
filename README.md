@@ -1,12 +1,10 @@
 # Hi I'am Mishab K A
 
 ## ⚡ Full stack developer
-#### - Website
-### - application
-### - windows,mac,android and ios App Developer
-### - I Am a BCA student At Bangalor
-### - Still Learning
-### - Goal : Become A SoftWare Engineer
+#### - Website#### - application#### - windows,mac,android and ios App Developer
+#### - I Am a BCA student At Bangalor
+#### - Still Learning
+#### - Goal : Become A SoftWare Engineer
 
 ## Contact Me <br>
 Whatsapp : <a href="https://wa.me/message/XEDQSY2IZ4C7D1">Chat With Me</a> <br>
