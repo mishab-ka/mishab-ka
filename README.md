@@ -1,7 +1,15 @@
 ### Hi there 👋
 
 
-**mishab-ka/mishab-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'am Mishab K A
+
+⚡ Full stack developer
+- Website
+- application
+- windows,mac,android and ios App Developer
+- I Am a BCA student At Bangalor
+- Still Learning
+- Goal : Become A SoftWare Engineer
 
 Here are some ideas to get you started:
 
