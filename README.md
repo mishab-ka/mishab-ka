@@ -1,5 +1,8 @@
 # Hi I'am Mishab K A
 
+i am a software developer, main programing langage:- 
+js,html,css,python,bash,dart,c,flutter,reactjs,
+
 ## ⚡ Full stack developer
 #### - Website 
 #### - application 
