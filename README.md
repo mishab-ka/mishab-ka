@@ -14,7 +14,7 @@ js,html,css,python,bash,dart,c,flutter,reactjs,
 
 ## My Projects
 
-<a href="https://todoappy.netlify.app">Todo App</a>
+<a href="https://github.com/mishab-ka/TodoApp">Todo App</a>
 
 ## Contact Me <br>
 Whatsapp : <a href="https://wa.me/message/XEDQSY2IZ4C7D1">Chat With Me</a> <br>
