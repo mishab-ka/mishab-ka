@@ -8,7 +8,7 @@ this is my portfolio
 check it now [Mishab-ka](https://mishab-ka.netlify.app/)
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kf3hmwdefp8bvsunfmws.png)
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qa2a7almr4ze6v813kco.png
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qa2a7almr4ze6v813kco.png)
 
 
 ### Skills
@@ -32,7 +32,7 @@ check it now [Mishab-ka](https://mishab-ka.netlify.app/)
 
 ## Contact Me <br>
 Whatsapp : <a href="https://wa.me/message/XEDQSY2IZ4C7D1">Chat With Me</a> <br>
-Website  : Comming Soon<br>
+Website  : <a href="https://mishab-ka.netlify.app/">PortFolio</a><br>
 Youtube  : <a href="https://www.youtube.com/c/KeralaHackersKHC">Kerala Hackers Khc</a><br>
 Email    : mishabrock8@gmail.com <br>
 Dev.to   :  <a href="https://dev.to/mishabka">Dev TO Mishab K a</a><br>
