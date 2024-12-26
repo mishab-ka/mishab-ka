@@ -1,46 +1,65 @@
-# Hi I'am Mishab K A
-i am a software developer, main programing langage:- 
-js,html,css,python,bash,dart,c,flutter,reactjs,
-# My Portfipolio
+👋 Hi, I’m Mishab K A
 
-this is my portfolio
-
-check it now [Mishab-ka](https://mishab-ka.netlify.app/)
-
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kf3hmwdefp8bvsunfmws.png)
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qa2a7almr4ze6v813kco.png)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=3498db&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%7C+Developer+%7C+Creator;Building+Innovative+Solutions;Empowering+Through+Technology;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</div>  
 
 
-### Skills
+🌟 About Me
 
-## ⚡ Full stack developer
-#### - Website 
-#### - application 
-#### - windows,mac,android and ios App Developer
-#### - I am a BCA student at Bangalor
-#### - Still Learning
-#### - Goal : Become A SoftWare Engineer at Google
+I’m a passionate tech enthusiast, aspiring influencer, and developer with a mission to create impactful digital solutions. From software development and robotics to tech education and content creation, I’m always exploring innovative ideas to make a difference.
 
+🛠️ Technologies I Work With
 
-## My Projects
-
-<a href="https://mishab-ka.netlify.app/">PortFolio</a>
-<a href="https://github.com/mishab-ka/TodoApp">Todo App</a>
-<a href="https://contactsv1.netlify.app/">Contact Share</a>
-<a href="https://intouchhome.in/">Home Nursing</a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwindcss,python,html,css,vscode,github,linux" alt="Skills" />
+</div>
 
 
-## Contact Me <br>
-Whatsapp : <a href="https://wa.me/message/XEDQSY2IZ4C7D1">Chat With Me</a> <br>
-Website  : <a href="https://mishab-ka.netlify.app/">PortFolio</a><br>
-Youtube  : <a href="https://www.youtube.com/c/KeralaHackersKHC">Kerala Hackers Khc</a><br>
-Email    : mishabrock8@gmail.com <br>
-Dev.to   :  <a href="https://dev.to/mishabka">Dev TO Mishab K a</a><br>
-<br>
+🚀 Projects
+
+Here are some of my key projects:
+	•	🌐 Wave: An educational platform offering lab programs, study materials, and project ideas for students.
+	•	💻 Business Management System (BMS): A tool for managing employees, customers, and workflows tailored for small businesses.
+	•	🤖 Chatbot for Developers: A conversational AI assistant for programmers to enhance productivity.
+	•	📱 Gaming Account Marketplace (In Progress): A secure platform for buying and selling gaming accounts with e-commerce functionality.
+	•	🖌️ Acrabug: A design-focused company offering creative solutions for UI/UX, branding, and more.
+
+📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MishabKA&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MishabKA&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishabKA&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 
+✨ Fun Facts
+	•	💡 I love experimenting with technology and sharing knowledge.
+	•	🎥 I’m building an engaging tech community through my YouTube channel, Techy.Toksiyo.
+	•	🌱 Always learning something new every day!
 
-<a href="https://www.youtube.com/c/KeralaHackersKHC?sub_confirmation=1"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php#"/></a>
-<a href="https://www.youtube.com/c/KeralaHackersKHC?sub_confirmation=1"><img alt="subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red#"/></a> 
+📞 Connect With Me
+
+<div align="center">
+  <a href="https://instagram.com/mishab.ka">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://instagram.com/techy.toksiyo">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Techy.Toksiyo" />
+  </a>
+  <a href="mailto:mishabrock8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/9606393089">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</div>
 
 
+🖌️ Profile Aesthetic
+	•	✨ Custom Typing SVG using readme-typing-svg.
+	•	💻 GitHub stats powered by GitHub Readme Stats.
+	•	🚀 Badges created with Shields.io.
